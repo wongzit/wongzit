@@ -8,10 +8,10 @@
 
 ## Languaeg
 ### Human language
-Chinese (native), English, Japanese
+🇨🇳🇹🇼🇭🇰🇲🇴Chinese (native), 🇺🇸English, 🇯🇵Japanese
 
 ### Computer language
-C, C++, Python, Swift, Shell
+💻C, C++, Python, Swift, Shell
 
 ## Publications
 [**Extremely Long Lived Localized Singlet Diradicals in a Macrocyclic Structure: A Case Study on the Stretch Effect**](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.201803076)  

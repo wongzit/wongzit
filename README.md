@@ -24,4 +24,4 @@
 ![](https://img.shields.io/badge/doi-10.1021%2Fjacs.1c01329-blue)&ensp;*J. Am. Chem. Soc.*, **2021**, *143*, 7426–7439
 
 [**SOMO-HOMO Conversion in Triplet Carbenes**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c01137)  
-![](https://img.shields.io/badge/doi-10.1021%2Facs.orglett.1c01137-blue)&ensp;*Org. Lett.*, **2021**, *in press*
+![](https://img.shields.io/badge/doi-10.1021%2Facs.orglett.1c01137-blue)&ensp;*Org. Lett.*, **2021**, *23*, 4955–4959

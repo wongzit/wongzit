@@ -6,7 +6,7 @@
 - 📫 Catch me by wongzit@yahoo.co.jp
 - 🏡 Welcome to my [HomePage](https://www.wangzhe95.net)
 
-## Languaeg
+## Language
 ### Human language
 🇨🇳🇹🇼🇭🇰🇲🇴Chinese (native), 🇺🇸English, 🇯🇵Japanese
 

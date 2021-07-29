@@ -26,5 +26,5 @@
 [**SOMO-HOMO Conversion in Triplet Carbenes**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c01137)  
 ![](https://img.shields.io/badge/doi-10.1021%2Facs.orglett.1c01137-blue)&ensp;*Org. Lett.*, **2021**, *23*, 4955–4959
 
-[**SOMO-HOMO Conversion in Triplet Cyclopentane-1,3-diyl Diradicals**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c01137)  
-![](https://img.shields.io/badge/doi-10.1021%2Facs.orglett.1c01137-blue)&ensp;*ACS Omega*, **2021**, *under proof*
+[**SOMO-HOMO Conversion in Triplet Cyclopentane-1,3-diyl Diradicals**](https://doi.org/10.1021/acsomega.1c03125)  
+![](https://img.shields.io/badge/doi-10.1021%2Facs.orglett.1c01137-blue)&ensp;*ACS Omega*, **2021**, DOI:10.1021/acsomega.1c03125

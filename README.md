@@ -8,7 +8,7 @@
 
 ## Language
 ### Human language
-🇨🇳🇹🇼🇭🇰🇲🇴Chinese (native), 🇺🇸English, 🇯🇵Japanese
+🇨🇳🇹🇼Chinese (native), 🇺🇸English, 🇯🇵Japanese
 
 ### Computer language
 💻C, C++, Python, Swift, Shell

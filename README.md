@@ -28,3 +28,5 @@
 
 [**SOMO-HOMO Conversion in Triplet Cyclopentane-1,3-diyl Diradicals**](https://doi.org/10.1021/acsomega.1c03125)  
 ![](https://img.shields.io/badge/doi-10.1021%2Facsomega.1c03125-blue)&ensp;*ACS Omega*, **2021**, DOI:10.1021/acsomega.1c03125
+
+![wongzit's GitHub stats](https://github-readme-stats.vercel.app/api?username=wongzit&show_icons=true&theme=tokyonight)

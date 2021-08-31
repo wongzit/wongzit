@@ -4,7 +4,7 @@
 - 👀 I’m a PhD student from Hiroshima university, Japan.
 - 🌱 Researcher in organic chemistry and programer.
 - 📫 Catch me by wongzit@yahoo.co.jp
-- 🏡 Welcome to my [HomePage](https://www.wangzhe95.net)
+- 🏡 Welcome to my [HomePage](https://wongzit.github.io/)
 
 ## Language
 ### Human language

@@ -1,42 +1,13 @@
 # Hi!
 [![](https://img.shields.io/badge/ORCiD-0000--0002--9996--586X-green)](https://orcid.org/0000-0002-9996-586X)
+
+## about me 🤖
+
 - 👋 Hi, I’m @wongzit
 - 👀 I’m a PhD student from Hiroshima university, Japan.
 - 🌱 Researcher in organic chemistry and programer.
 - 📫 Catch me by wongzit@yahoo.co.jp
 - 🏡 Welcome to my [HomePage](https://wongzit.github.io/)
-
-## Language
-### Human language
-🇨🇳🇹🇼Chinese (native), 🇺🇸English, 🇯🇵Japanese
-
-### Computer language
-💻C, C++, Python, Swift, Shell
-
-## Publications
-[**Extremely Long Lived Localized Singlet Diradicals in a Macrocyclic Structure: A Case Study on the Stretch Effect**](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.201803076)  
-![](https://img.shields.io/badge/doi-10.1002%2Fchem.201803076-blue)&ensp;*Chem. Eur. J.*, **2018**, *24*, 14808–14815
-
-[**Impact of the macrocyclic structure and dynamic solvent effect on the reactivity of a localised singlet diradicaloid with π-single bonding character**](https://pubs.rsc.org/en/content/articlelanding/2021/SC/D0SC05311B#!divAbstract)  
-![](https://img.shields.io/badge/doi-10.1039%2Fd0sc05311b-blue)&ensp;*Chem. Sci.*, **2021**, *12*, 613–625
-
-[**1,3-Diradicals Embedded in Curved Paraphenylene Units: Singlet versus Triplet and In-plane Aromaticity**](https://pubs.acs.org/doi/10.1021/jacs.1c01329)  
-![](https://img.shields.io/badge/doi-10.1021%2Fjacs.1c01329-blue)&ensp;*J. Am. Chem. Soc.*, **2021**, *143*, 7426–7439
-
-[**SOMO-HOMO Conversion in Triplet Carbenes**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c01137)  
-![](https://img.shields.io/badge/doi-10.1021%2Facs.orglett.1c01137-blue)&ensp;*Org. Lett.*, **2021**, *23*, 4955–4959
-
-[**SOMO-HOMO Conversion in Triplet Cyclopentane-1,3-diyl Diradicals**](https://doi.org/10.1021/acsomega.1c03125)  
-![](https://img.shields.io/badge/doi-10.1021%2Facsomega.1c03125-blue)&ensp;*ACS Omega*, **2021**, DOI:10.1021/acsomega.1c03125
-
-![wongzit's GitHub stats](https://github-readme-stats.vercel.app/api?username=wongzit&show_icons=true&theme=tokyonight)
-
-
-## about me 🤖
-
-Hello, welcom to my space. I am a 👨🏻‍🎓 **PhD student** from **Hiroshima University**, studying 👨🏻‍🔬 **organic chemistry**. I was born in **Qingdao, P.R.China** 🇨🇳, and now living in 📍 **Hiroshima, Japan** 🇯🇵.
-
-I also do some 👨🏻‍💻 **programming**, I will post my publications, programs and some blogs (sometime for memo) on this website.
 
 ## may u needs ✨
 
@@ -52,20 +23,39 @@ I also do some 👨🏻‍💻 **programming**, I will post my publications, pro
 
 <a href="https://twitter.com/oooooootetsu"> <img alt="twitter" class="icon" src="738px-Twitter_bird_logo_2012.png" style="width:20px; height:16px; margin-right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> <b>Twitter</b> @oooooootetsu</a>
 
-✉️&ensp;&ensp;[**Mail to**](wongzit@yahoo.co.jp) wongzit[at]yahoo.co.jp
+## education 🏫
 
-## useful links 🌏
+- 2019.10 ~ now [**Hiroshima University**](https://www.hiroshima-u.ac.jp) (Ph.D.)
+- 2017.10 ~ 2019.09 [**Hiroshima University**](https://www.hiroshima-u.ac.jp) (M.Sc.)
+- 2013.09 ~ 2017.06 [**China University of Petroleum, East China**](http://www.upc.edu.cn) (B.Eng.)
 
-[**WebPlotDigitizer**](https://automeris.io/WebPlotDigitizer/) Web based tool to extract data from plots, images, and maps.
+## language 🗣
+- 🇨🇳🇹🇼 Chinese, 🇺🇸 English, 🇯🇵 Japanese
+- 💻 C, C++, Python, Swift, Shell
 
-[**Unit Conversion & Calculation**](https://ha2.seikyou.ne.jp/home/Takehito.Senga/geocity/unitconversion.html#Photon): Java script for unit conversion.
+## membership 🎟
+- [**Chinese Chemical Society**](https://www.chemsoc.org.cn) (from 2018.03.11)
+- [**The Chemical Society of Japan**](https://www.chemistry.or.jp) (from 2018.04.01)
+- [**The Society of Pyhsical Organic Chemistry, Japan**](http://jpoc.ac) (from 2019.05.23)
+- [**Japan Society of Theoretical Chemistry**](https://www.rkk-web.jp) (from 2020.08.21)
 
-[**Pressure-Temperature Nomograph Interative Tool**](https://www.sigmaaldrich.com/JP/ja/support/calculators-and-apps/pressure-temperature-nomograph-interactive-tool): Boiling point *vs* pressure calculator.
+## publications 📄
+### 2021
+5.[ **SOMO-HOMO Conversion in Triplet Cyclopentane-1,3-diyl Diradicals**](https://wongzit.github.io/publication/shc2021/)  
+<u>Z. Wang</u>, R. Murata, M. Abe\*, *ACS Omega*, **2021**, DOI:10.1021/acsomega.1c03125.
 
-[**CCCBDB**](https://cccbdb.nist.gov/vibscalejust.asp): Precomputed vibrational scaling factors.
+4.[ **SOMO-HOMO Conversion in Triplet Carbenes**](https://wongzit.github.io/publication/murata2021/)&ensp;![](https://img.shields.io/badge/OL-Cover%20Picture-orange?style=flat-square)  
+R. Murata, <u>Z. Wang</u>, Y. Miyazawa, I. Antol\*, S. Yamago, M. Abe\*, *Org. Lett.*, **2021**, *23*, 4955–4959.
 
-[**CHESHIRE**](http://cheshirenmr.info): Computed NMR scaling factors.
+3.[ **1,3-Diradicals Embedded in Curved Paraphenylene Units: Singlet versus Triplet and In-plane Aromaticity**](https://wongzit.github.io/publication/miyazawa2021/)&ensp;![](https://img.shields.io/badge/JACS-Cover%20Picture-orange?style=flat-square)  
+Y. Miyazawa, <u>Z. Wang</u>, M. Matsumoto, S. Hatano, I. Antol\*, E. Kayahara, S. Yamago\*, M. Abe\*, *J. Am. Chem. Soc.*, **2021**, *143*, 7426–7439.
 
-[**Maze Generator**](https://www.mazegenerator.net): A maze generator.
+2.[ **Impact of the Macrocyclic Structure and Dynamic Solvent Effect on the Reactivity of a Localised Singlet Diradicaloid with π-Single Bonding Character**](https://wongzit.github.io/publication/stretch2021/)&ensp;![](https://img.shields.io/badge/CS-2020%20HOT%20Paper-orange?style=flat-square)  
+<u>Z. Wang</u>, R. Akisaka, S. Yabumoto, T. Nakagawa, S. Hatano, M. Abe\*, *Chem. Sci.*, **2021**, *12*, 613–625.
+
+### 2018
+
+1.[ **Extremely Long Lived Localized Singlet Diradicals in a Macrocyclic Structure: A Case Study on the Stretch Effect**](https://wongzit.github.io/publication/harada2018/)  
+Y. Harada, <u>Z. Wang</u>, S. Kumashiro, S. Hatano, M. Abe\*, *Chem. Eur. J.*, **2018**, *24*, 14808–14815.
 
 > Unless we change directions, we will end up where we are headed.   -- Confucius

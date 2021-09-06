@@ -1,5 +1,4 @@
 # Hi!
-[![](https://img.shields.io/badge/ORCiD-0000--0002--9996--586X-green)](https://orcid.org/0000-0002-9996-586X)
 
 ## about me 🤖
 

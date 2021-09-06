@@ -56,4 +56,6 @@ Y. Miyazawa, <u>Z. Wang</u>, M. Matsumoto, S. Hatano, I. Antol\*, E. Kayahara, S
 1.[ **Extremely Long Lived Localized Singlet Diradicals in a Macrocyclic Structure: A Case Study on the Stretch Effect**](https://wongzit.github.io/publication/harada2018/)  
 Y. Harada, <u>Z. Wang</u>, S. Kumashiro, S. Hatano, M. Abe\*, *Chem. Eur. J.*, **2018**, *24*, 14808–14815.
 
+</br>
+
 > Unless we change directions, we will end up where we are headed.   -- Confucius

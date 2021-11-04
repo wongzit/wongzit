@@ -39,6 +39,9 @@
 - [**Japan Society of Theoretical Chemistry**](https://www.rkk-web.jp) (from 2020.08.21)
 
 ## publications 📄
+7.[ **Singly Occipied Molecular Orbital–Highest Occupied Molecular Orbital (SOMO–HOMO) Conversion**](https://www.publish.csiro.au/CH/justaccepted/CH21186)
+R. Murata, <u>Z. Wang</u>, M. Abe\*, *Aust. J. Chem.*, **2021**, *Accepted Manuscript*.
+
 6.[ **Long-lived Localised Singlet Diradicaloids with Carbon–Carbon π-Single Bonding (C–π–C)**](https://wongzit.github.io/publication/ccstretch2021/)  
 <u>Z. Wang</u>, P. Yadav, M. Abe\*, *Chem. Commun.*, **2021**, *57*(*86*), 11301–11309.
 

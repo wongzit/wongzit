@@ -39,6 +39,9 @@
 - [**Japan Society of Theoretical Chemistry**](https://www.rkk-web.jp) (from 2020.08.21)
 
 ## publications 📄
+8.[ **Impacts of Solvent and Alkyl Chain Length on the Lifetime of Singlet Cyclopentane-1,3-diyl Diradicaloids with π-Single Bonding**](https://doi.org/10.1021/acs.joc.1c02895)  
+Q. Liu, <u>Z. Wang</u>, M. Abe\*, *J. Org. Chem.*, **2022**, DOI: 10.1021/acs.joc.1c92895
+
 7.[ **Singly Occipied Molecular Orbital–Highest Occupied Molecular Orbital (SOMO–HOMO) Conversion**](https://doi.org/10.1071/CH21186)  
 R. Murata, <u>Z. Wang</u>, M. Abe\*, *Aust. J. Chem.*, **2021**, *74*(*12*), 827–837
 

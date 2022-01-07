@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @wongzit
 - 👀 I’m a PhD student from Hiroshima university, Japan.
 - 🌱 Researcher in organic chemistry and programer.
-- 📫 Catch me by zit.wong1995@gmail.com
+- 📫 Catch me by wongzit@yahoo.co.jp or zit.wong1995@gmail.com
 - 🏡 Welcome to my [HomePage](https://wongzit.github.io/)
 
 ## may u needs ✨

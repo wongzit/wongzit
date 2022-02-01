@@ -42,7 +42,7 @@
 9.[ **Impacts of Solvent and Alkyl Chain Length on the Lifetime of Singlet Cyclopentane-1,3-diyl Diradicaloids with π-Single Bonding**](https://doi.org/10.1021/acs.joc.1c02895)  
 Q. Liu, <u>Z. Wang</u>, M. Abe\*, *J. Org. Chem.*, **2022**, DOI: 10.1021/acs.joc.1c92895
 
-8.[ **New Insights into Bond Homolysis Process and Discovery of Novel Bonding System (C–π–C)**](https://www.facs.website/_files/ugd/df0506_53efe06e99454eabbb727b6bdb4b6acf.pdf)  
+8.[ **New Insights into Bond Homolysis Process and Discovery of Novel Bonding System (C–π–C) by Generating Long-lived Singlet Diradicals**](https://www.facs.website/_files/ugd/df0506_53efe06e99454eabbb727b6bdb4b6acf.pdf)  
 M. Abe\*, <u>Z. Wang</u>, R. Akisaka. *AsiaChem*, **2021**, *2*(*1*), 32–41.
 
 7.[ **Singly Occipied Molecular Orbital–Highest Occupied Molecular Orbital (SOMO–HOMO) Conversion**](https://doi.org/10.1071/CH21186)  
@@ -51,13 +51,13 @@ R. Murata, <u>Z. Wang</u>, M. Abe\*, *Aust. J. Chem.*, **2021**, *74*(*12*), 827
 6.[ **Long-lived Localised Singlet Diradicaloids with Carbon–Carbon π-Single Bonding (C–π–C)**](https://doi.org/10.1039/D1CC04581D)  
 <u>Z. Wang</u>, P. Yadav, M. Abe\*, *Chem. Commun.*, **2021**, *57*(*86*), 11301–11309.
 
-5.[ **SOMO-HOMO Conversion in Triplet Cyclopentane-1,3-diyl Diradicals**](https://doi.org/10.1021/acsomega.1c03125)  
+5.[ **SOMO–HOMO Conversion in Triplet Cyclopentane-1,3-diyl Diradicals**](https://doi.org/10.1021/acsomega.1c03125)  
 <u>Z. Wang</u>, R. Murata, M. Abe\*, *ACS Omega*, **2021**, *6*(*35*), 22773–22779.
 
-4.[ **SOMO-HOMO Conversion in Triplet Carbenes**](https://doi.org/10.1021/acs.orglett.1c01137)&ensp;![](https://img.shields.io/badge/OL-Cover%20Picture-orange?style=flat-square)  
+4.[ **SOMO–HOMO Conversion in Triplet Carbenes**](https://doi.org/10.1021/acs.orglett.1c01137)&ensp;![](https://img.shields.io/badge/OL-Cover%20Picture-orange?style=flat-square)  
 R. Murata, <u>Z. Wang</u>, Y. Miyazawa, I. Antol\*, S. Yamago, M. Abe\*, *Org. Lett.*, **2021**, *23*(*13*), 4955–4959.
 
-3.[ **1,3-Diradicals Embedded in Curved Paraphenylene Units: Singlet versus Triplet and In-plane Aromaticity**](https://doi.org/10.1021/jacs.1c01329)&ensp;![](https://img.shields.io/badge/JACS-Cover%20Picture-orange?style=flat-square)  
+3.[ **1,3-Diradicals Embedded in Curved Paraphenylene Units: Singlet versus Triplet State and In-plane Aromaticity**](https://doi.org/10.1021/jacs.1c01329)&ensp;![](https://img.shields.io/badge/JACS-Cover%20Picture-orange?style=flat-square)  
 Y. Miyazawa, <u>Z. Wang</u>, M. Matsumoto, S. Hatano, I. Antol\*, E. Kayahara, S. Yamago\*, M. Abe\*, *J. Am. Chem. Soc.*, **2021**, *143*(*19*), 7426–7439.
 
 2.[ **Impact of the Macrocyclic Structure and Dynamic Solvent Effect on the Reactivity of a Localised Singlet Diradicaloid with π-Single Bonding Character**](https://doi.org/10.1039/D0SC05311B)&ensp;![](https://img.shields.io/badge/CS-2020%20HOT%20Paper-orange?style=flat-square)  

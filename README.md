@@ -40,7 +40,7 @@
 
 ## publications 📄
 9.[ **Impacts of Solvent and Alkyl Chain Length on the Lifetime of Singlet Cyclopentane-1,3-diyl Diradicaloids with π-Single Bonding**](https://doi.org/10.1021/acs.joc.1c02895)  
-Q. Liu, ***Z. Wang***, M. Abe\*, *J. Org. Chem.*, **2022**, DOI: 10.1021/acs.joc.1c92895
+Q. Liu, ***Z. Wang***, M. Abe\*, *J. Org. Chem.*, **2022**, *87*(*3*), 1858–1866.
 
 8.[ **New Insights into Bond Homolysis Process and Discovery of Novel Bonding System (C–π–C) by Generating Long-lived Singlet Diradicals**](https://www.facs.website/_files/ugd/df0506_53efe06e99454eabbb727b6bdb4b6acf.pdf)  
 M. Abe\*, ***Z. Wang***, R. Akisaka. *AsiaChem*, **2021**, *2*(*1*), 32–41.

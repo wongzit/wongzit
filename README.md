@@ -40,7 +40,7 @@
 
 ## publications 📄
 10.[ **Generation and Characterization of a Tetraradical Embedded in a Curved Cyclic Paraphenylene Unit**](https://doi.org/10.1002/chem.202301009)  
-Y. Miyazawa, ***Z. Wang***, S. Hatano, R. Takagi, H. Matsuoka\*, N. Amamizu, Y. Kitagawa\*, E. Kayahara, S. Yamago, M. Abe\*, *Chem. Eur. J.*, **2023**, *29*, e202301009.
+Y. Miyazawa, ***Z. Wang***, S. Hatano, R. Takagi, H. Matsuoka\*, N. Amamizu, Y. Kitagawa\*, E. Kayahara, S. Yamago, M. Abe\*, *Chem. Eur. J.*, **2023**, *29*(*42*), e202301009.
 
 9.[ **Impacts of Solvent and Alkyl Chain Length on the Lifetime of Singlet Cyclopentane-1,3-diyl Diradicaloids with π-Single Bonding**](https://doi.org/10.1021/acs.joc.1c02895)  
 Q. Liu, ***Z. Wang***, M. Abe\*, *J. Org. Chem.*, **2022**, *87*(*3*), 1858–1866.

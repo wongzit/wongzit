@@ -28,6 +28,9 @@
 - 2017.10 ~ 2019.09 [**Hiroshima University**](https://www.hiroshima-u.ac.jp) (M.Sc.)
 - 2013.09 ~ 2017.06 [**China University of Petroleum, East China**](http://www.upc.edu.cn) (B.Eng.)
 
+## academic appointments 🗽
+- 2022.10 ~ PostDoc Fellow, [WPI-iCeMS, Kyoto University](https://www.icems.kyoto-u.ac.jp)
+
 ## language 🗣
 - 🇨🇳🇹🇼 Chinese, 🇺🇸 English, 🇯🇵 Japanese
 - 💻 C, C++, Python, Swift, Shell

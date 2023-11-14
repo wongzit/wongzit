@@ -42,7 +42,7 @@
 - [**Japan Society of Theoretical Chemistry**](https://www.rkk-web.jp) (from 2020.08.21)
 
 ## publications 📄
-11.[ **Energetically More Stable Singlet Cyclopentane-1,3-diyl Diradical with π-Single Bonding Character than the Corresponding σ-Single Bonded Compound**](https://doi.org/10.1021/jacs.xxxxxx)  
+11.[ **Energetically More Stable Singlet Cyclopentane-1,3-diyl Diradical with π-Single Bonding Character than the Corresponding σ-Single Bonded Compound**](https://doi.org/10.1021/jacs.3c10971)  
 Q. Liu, K. Onishi, Y. Miyazawa, ***Z. Wang***, S. Hatano, M. Abe\*, *J. Am. Chem. Soc.*, **2023**, *Accepted manuscript*.
 
 10.[ **Generation and Characterization of a Tetraradical Embedded in a Curved Cyclic Paraphenylene Unit**](https://doi.org/10.1002/chem.202301009)  

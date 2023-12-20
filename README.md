@@ -3,7 +3,7 @@
 ## about me 🤖
 
 - 👋 Hi, I’m @wongzit
-- 👀 I’m a PostDoc in Kyoto University, Japan.
+- 👀 I’m a PostDoc at Kyoto University, Japan.
 - 🌱 Researcher in organic chemistry and programer.
 - 📫 Catch me by wang.zhe.dr@gmail.com
 - 🏡 Welcome to my [HomePage](https://wongzit.github.io/)

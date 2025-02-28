@@ -18,8 +18,6 @@
 
 <a href="https://github.com/wongzit"> <img alt="github" class="icon" src="GitHub-Mark-120px-plus.png" style="width:20px; height:20px; margin-right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> <b>GitHub</b> wongzit</a>
 
-<a href="https://www.instagram.com/tetsu_____/"> <img alt="instagram" class="icon" src="Instagram_logo_2016.png" style="width:20px; height:20px; margin-right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> <b>Instagram</b> tetsu_____</a>
-
 <a href="https://twitter.com/oooooootetsu"> <img alt="twitter" class="icon" src="738px-Twitter_bird_logo_2012.png" style="width:20px; height:16px; margin-right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> <b>Twitter</b> @oooooootetsu</a>
 
 ## education 🏫

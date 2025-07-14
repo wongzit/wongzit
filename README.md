@@ -20,15 +20,15 @@
 
 <a href="https://x.com/oooooootetsu"> <img alt="twitter" class="icon" src="sl_z_072523_61700_01.jpg" style="width:20px; height:16px; margin-right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> <b>X</b> @oooooootetsu</a>
 
+## academic appointments 🗽
+- 2025.08 ~ now: Assistant Professor, [The University of Osaka](https://www.applchem.eng.osaka-u.ac.jp/en/)
+- 2022.10 ~ 2025.07: PostDoc Fellow, [WPI-iCeMS, Kyoto University](https://www.icems.kyoto-u.ac.jp)
+
 ## education 🏫
 
 - 2019.10 ~ 2022.09: [**Hiroshima University**](https://www.hiroshima-u.ac.jp) (Ph.D.)
 - 2017.10 ~ 2019.09: [**Hiroshima University**](https://www.hiroshima-u.ac.jp) (M.Sc.)
 - 2013.09 ~ 2017.06: [**China University of Petroleum, East China**](http://www.upc.edu.cn) (B.Eng.)
-
-## academic appointments 🗽
-- 2025.08 ~ now: Assistant Professor, [The University of Osaka](https://www.applchem.eng.osaka-u.ac.jp/en/)
-- 2022.10 ~ 2025.07: PostDoc Fellow, [WPI-iCeMS, Kyoto University](https://www.icems.kyoto-u.ac.jp)
 
 ## language 🗣
 - 🇨🇳🇹🇼 Chinese, 🇺🇸 English, 🇯🇵 Japanese

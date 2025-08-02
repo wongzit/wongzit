@@ -22,7 +22,7 @@
 
 ## academic appointments 🗽
 - 2025.08 ~ now: Assistant Professor, [The University of Osaka](https://www.applchem.eng.osaka-u.ac.jp/en/)
-- 2022.10 ~ 2025.07: PostDoc Fellow, [WPI-iCeMS, Kyoto University](https://www.icems.kyoto-u.ac.jp)
+- 2022.10 ~ 2025.07: PostDoc Fellow, [Kyoto University](https://www.icems.kyoto-u.ac.jp)
 
 ## education 🏫
 
